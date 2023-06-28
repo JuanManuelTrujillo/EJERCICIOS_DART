@@ -10,7 +10,7 @@ Obtener el porcentaje que cada quien invierte con respecto a la cantidad total i
   print('Ingrese la cantidad de inversión de la segunda persona:');
   double inversion2 = double.parse(stdin.readLineSync()!);
 
-  print('Ingrese la cantidad de inversión de la tercera persona:');
+  print('Ingrese la cantidad de la inversión de la tercera persona:');
   double inversion3 = double.parse(stdin.readLineSync()!);
 
   // Calcular la cantidad total invertida
